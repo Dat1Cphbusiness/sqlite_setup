@@ -66,3 +66,5 @@ Nu skulle du gerne kunne se tabellen **dogs** og der er 50 rækker i tabellen.
 3. Start programmet via dit IDE (kør `Main`)
 
 Programmet skriver alle hunde til konsollen, én linje per `Dog`-instans.
+
+![datadog](images/datadog.jpg)
