@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/data/dogs.sql" value="0b7a0268-d626-465e-8749-7e47b0219076" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/0b7a0268-d626-465e-8749-7e47b0219076/console.sql" value="0b7a0268-d626-465e-8749-7e47b0219076" />
+    <file url="file://$PROJECT_DIR$/data/dogs.sql" value="3c12557a-a960-485f-9863-a04fbd2ea4d0" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/3c12557a-a960-485f-9863-a04fbd2ea4d0/console.sql" value="3c12557a-a960-485f-9863-a04fbd2ea4d0" />
   </component>
 </project>
